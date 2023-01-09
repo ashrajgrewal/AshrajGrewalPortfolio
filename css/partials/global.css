@@ -31,3 +31,8 @@ font: normal bold 50px/72px
     background-clip: padding-box;
     color: black;
 }
+p.para{
+    color: var(--text-color);
+    font: normal 500 16px/ 25px;
+
+font-family: Arial, Helvetica, sans-serif;}
