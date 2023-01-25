@@ -5,6 +5,11 @@
 @import url(./partials/variables.css);
 @import url(./partials/global.css);
 
+body{
+    background-color: beige;
+}
+
+
 /* navigation */
 
 .header_area .main-menu .navbar .navbar-brand {
