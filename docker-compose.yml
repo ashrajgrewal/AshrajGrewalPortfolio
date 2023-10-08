@@ -1,6 +1,6 @@
 version: '3'
 services:
-  portfolio-app:
-  image: scaryswe/portfolio-app:1.0
-  ports:
-    - "5000:5000"
+  web:
+    build: .
+    ports:
+      - "80:80"
